@@ -1,0 +1,27 @@
+AI USE DISCLOSURE
+CHEMISTRY FOR ENGINEERS
+Asynchronous Activity No. 02 - Atom Count Card: Mole Concept and Mole Conversions
+
+
+AI Tool Used: ChatGPT (OpenAI)
+
+
+Product covered: Bottled drinking water (H₂O)
+
+
+How it was used:
+- Assisted in organizing the content structure of the Atom Count Card (product identity, base quantitative data, molar-mass build-up, Mole Map, calculations, scale-up, significant-figure check, and takeaway).
+- Helped explain and review the mole-conversion steps from volume and mass to moles, molecules, and atoms.
+- Assisted in drafting and refining the wording of the infographic and the one-number takeaway.
+
+
+What was independently done/verified by the student:
+- The product information and label amount were checked against the product label.
+- The chemical formula and atomic masses were checked against credible chemistry references.
+- The conversion factors, unit cancellations, calculations, and significant-figure decisions were reviewed and verified by the student.
+- The assumptions used in the calculations, including the density of water, were identified and checked.
+- The final content, calculations, references, and infographic were reviewed by the student before submission.
+
+
+Name: ARIOLA, COERVIN JAMES K.
+Date: OCTOBER 31, 2026
